@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759711716681",
+    "firebase_url": "https://covid-live-da26d.firebaseio.com",
+    "project_id": "covid-live-da26d",
+    "storage_bucket": "covid-live-da26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759711716681:android:2d5c9f0156126b55607698",
+        "android_client_info": {
+          "package_name": "com.deysofts.covidlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759711716681-nra62e7lkgs0o1sak0pva4k6nj2iio37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFfWbF-cheTR9ax2XX3bqHL3SxKgIwXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759711716681-nra62e7lkgs0o1sak0pva4k6nj2iio37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
