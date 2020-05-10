@@ -6,7 +6,7 @@ import time
 #sys.modules['Crypto'] = crypto
 from firebase import firebase
 from selenium.webdriver.chrome.options import Options
-firebase=firebase.FirebaseApplication("https://covid-live-da26d.firebaseio.com/",None)
+firebase=firebase.FirebaseApplication("###############################################################",None)
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 from webdriver_manager.chrome import ChromeDriverManager
